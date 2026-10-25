@@ -1,0 +1,60 @@
+
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple iPhone 15 Pro",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "price": 999,
+      "stock": 15,
+      "rating": 4.8,
+      "image": "https://placehold.co/600x400?text=iPhone+15+Pro",
+      "description": "A premium smartphone featuring the A17 Pro chip, titanium design, and advanced camera system."
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24 Ultra",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "price": 1199,
+      "stock": 10,
+      "rating": 4.9,
+      "image": "https://placehold.co/600x400?text=Galaxy+S24+Ultra",
+      "description": "A flagship Android smartphone featuring Galaxy AI, S Pen support, and a powerful camera system."
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "category": "Headphones",
+      "brand": "Sony",
+      "price": 349,
+      "stock": 25,
+      "rating": 4.7,
+      "image": "https://placehold.co/600x400?text=Sony+Headphones",
+      "description": "Premium wireless headphones with industry-leading noise cancellation and excellent sound quality."
+    },
+    {
+      "id": "4",
+      "name": "Apple MacBook Air M3",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 1099,
+      "stock": 8,
+      "rating": 4.8,
+      "image": "https://placehold.co/600x400?text=MacBook+Air+M3",
+      "description": "A lightweight laptop powered by Apple's M3 chip, offering excellent performance and battery life."
+    },
+    {
+      "id": "5",
+      "name": "Logitech MX Master 3S",
+      "category": "Accessories",
+      "brand": "Logitech",
+      "price": 99,
+      "stock": 30,
+      "rating": 4.6,
+      "image": "https://placehold.co/600x400?text=Logitech+MX+Master+3S",
+      "description": "An ergonomic wireless mouse with ultra-fast scrolling, quiet clicks, and customizable buttons."
+    }
+  ]
+}

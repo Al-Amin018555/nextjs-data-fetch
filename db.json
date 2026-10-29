@@ -56,5 +56,67 @@
       "image": "https://placehold.co/600x400?text=Logitech+MX+Master+3S",
       "description": "An ergonomic wireless mouse with ultra-fast scrolling, quiet clicks, and customizable buttons."
     }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "Atomic love pasha",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "price": 18.99,
+      "rating": 4.8,
+      "stock": 25,
+      "publishedYear": 2018,
+      "image": "https://placehold.co/400x600?text=Atomic+Habits",
+      "description": "A practical guide to building good habits, breaking bad ones, and improving yourself through small daily changes."
+    },
+    {
+      "id": "2",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 16.99,
+      "rating": 4.7,
+      "stock": 18,
+      "publishedYear": 2020,
+      "image": "https://placehold.co/400x600?text=Psychology+of+Money",
+      "description": "Explores how people's behavior, emotions, and personal experiences influence their financial decisions."
+    },
+    {
+      "id": "3",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 15.99,
+      "rating": 4.6,
+      "stock": 20,
+      "publishedYear": 2016,
+      "image": "https://placehold.co/400x600?text=Deep+Work",
+      "description": "Explains how focused, distraction-free work can help you achieve better results and develop valuable skills."
+    },
+    {
+      "id": "4",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 12.99,
+      "rating": 4.7,
+      "stock": 30,
+      "publishedYear": 1988,
+      "image": "https://placehold.co/400x600?text=The+Alchemist",
+      "description": "A philosophical novel about a young shepherd who travels in search of treasure and discovers his true purpose."
+    },
+    {
+      "id": "5",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 39.99,
+      "rating": 4.5,
+      "stock": 12,
+      "publishedYear": 2008,
+      "image": "https://placehold.co/400x600?text=Clean+Code",
+      "description": "A software development guide that teaches programmers how to write readable, maintainable, and high-quality code."
+    }
   ]
 }

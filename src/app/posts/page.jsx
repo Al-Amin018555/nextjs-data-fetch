@@ -25,7 +25,7 @@ const PostsPage = async () => {
 
     return (
         <div>
-            <h2 className="text-4xl">Posts are coming soon</h2>
+            <h2 className="text-4xl">Posts : {posts.length}</h2>
         </div>
     );
 };
